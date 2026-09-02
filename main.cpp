@@ -1,6 +1,4 @@
-//
-// Created by Lakshya Mittal on 17-12-2021.
-//
+
 
 #include <bits/stdc++.h>
 //#include "Model/RubiksCube3dArray.cpp"
