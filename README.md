@@ -202,3 +202,5 @@ The program's terminal output can be understood in four sections:
 2. **Scramble Moves:** The moves used to scramble the initially solved cube.
 3. **Solved Cube:** The solved cube representation printed by the program.
 4. **Solution
+5. <img width="335" height="377" alt="image" src="https://github.com/user-attachments/assets/67576752-56ad-42be-aaa4-46f51d25aab8" />
+
